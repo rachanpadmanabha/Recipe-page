@@ -22,7 +22,7 @@ img {
   background-color: hsl(0, 0%, 100%);
   color: rgb(85, 89, 89);
 }
-@media (max-width: 375px) {
+@media (max-width: 1350px) {
   .recipe-container {
     padding: 0;
     margin: 0;
